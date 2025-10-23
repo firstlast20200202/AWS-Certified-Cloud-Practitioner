@@ -3,3 +3,5 @@ AWS global infrastucture:
 aws regions, aws availability zones, aws data centres, aws edge locations/points of presence
 
 PaaS: clients only deal with application and data
+
+IAM:
