@@ -4,3 +4,10 @@ aws regions, aws availability zones, aws data centres, aws edge locations/points
 
 PaaS: clients only deal with application and data
 
+classic ports:
+22 = SSH
+21 = FTP
+22 = SFTP
+80 = HTTP
+443 = HTTPS
+3389 = RDP
