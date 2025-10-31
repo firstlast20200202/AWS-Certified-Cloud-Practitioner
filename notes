@@ -13,3 +13,11 @@ classic ports:
 3389 = RDP
 
 
+outline:
+EC2
+S3
+DBs
+others
+deploying and infrastructure at scale
+global infrastructure
+cloud integration
