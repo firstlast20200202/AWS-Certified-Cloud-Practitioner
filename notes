@@ -25,4 +25,4 @@ Cloud integrations: 150
 when we start deploying multiple applications, they will communicate with one another, there are two types of app communication: directly, and via a queue
 SQS: simple queue service
 SNS: notification
-
+Amazon MQ: should be only used when the company is migrating to the cloud and need to use one of the open protocols such as MQTT etc.
