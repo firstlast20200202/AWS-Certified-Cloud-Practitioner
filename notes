@@ -19,5 +19,8 @@ S3
 DBs
 others
 deploying and infrastructure at scale
-integration
+
+
+Cloud integrations:
+when we start deploying multiple applications, they will communicate with one another, there are two types of app communication: directly, and via a queue
 
